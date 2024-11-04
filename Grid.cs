@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-/// <summary>
-/// Source https://github.com/lordjesus/Packt-Introduction-to-graph-algorithms-for-game-developers
-/// </summary>
 public class Point
 {
     public int X { get; set; }
