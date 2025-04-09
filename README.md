@@ -62,8 +62,5 @@ The codebase is organized into several manager classes:
 
 ## Credits
 
-Created by [Your Name] for 3D Programming Class
-
 Built using Unity and C#
-
 Road system based on techniques from Sunny Valley Studio
