@@ -63,4 +63,5 @@ The codebase is organized into several manager classes:
 ## Credits
 
 Built using Unity and C#
+
 Road system based on techniques from Sunny Valley Studio
